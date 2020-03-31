@@ -1,0 +1,27 @@
+
+
+
+def useful_method_on_pandas_df(self, func, *args, **kwargs):
+    blalba(self, *args)
+    return func(self)
+
+x
+
+#src.__init__.py
+def save(self, writer):
+    return writer(self)
+
+pandas.DataFrame.save = save
+
+k
+import src
+import src.packagexy.asöaökja.asdlfkjöi
+
+df = pd.read_pickle('file.pkl')
+df = df.loc[]
+df.save(writer)
+
+    ..
+    class dist:
+        
+        def __init__(self, *dists):
